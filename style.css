@@ -1,0 +1,63 @@
+/* Reset some default styles */
+body, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a basic font and background color for the body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Style the objective heading */
+h2 {
+    color: #4285f4; /* Google Blue */
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Style the objective paragraph */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+}
+
+/* Reset some default styles */
+body, h1, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a basic font and background color for the body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Style the name (h1) */
+h1 {
+    color: #4285f4; /* Google Blue */
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+/* Style the job title (h3) */
+h3.job-title {
+    color: #555;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+/* Style the contact information (h3) */
+h3.contact-info {
+    font-size: 14px;
+    color: #777;
+}
+
+
+
+
